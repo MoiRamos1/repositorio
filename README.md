@@ -1,5 +1,5 @@
 # repositorio
-Ejemplo de repositorio para el diplomado de plataformas para la investigación
+Les dejo el formato para elaborar un proyecto, espero les sirva 
 
-# Mi primer repositorio
-aqui se registran los cambios
+
+
