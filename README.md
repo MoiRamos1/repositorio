@@ -1,5 +1,5 @@
 # repositorio
-Les dejo el formato para elaborar un proyecto, espero les sirva 
+cuenta una hitoria que un en su boque encatado lloro, por que apesar de su magia no avia podido encontrar el amor
 
 
 
